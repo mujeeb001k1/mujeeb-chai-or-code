@@ -35,5 +35,31 @@ let scoreIs = 45;
 
 let numberToString = String (scoreIs);
 
-console.log(numberToString);
-console.log(typeof numberToString);
+// console.log(numberToString);
+// console.log(typeof numberToString);
+
+
+// *******************OPerations*******************
+
+let value = 3
+// console.log(-value)
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+// console.log(2/2);
+// console.log(2%2);
+
+let str1 = "Mujeeb"
+let str2 = "Rehman"
+
+let str3 = str1 + str2
+
+// console.log(str1 + str2);
+
+console.log("1"+2);
+console.log("1"+"2");
+console.log(1+"2");
+console.log(1+1+"2");
+console.log("2" + 1+1);
